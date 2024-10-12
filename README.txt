@@ -4,6 +4,6 @@ The program is coded in Julia and contained in the notebook Cubical_Homology_par
 
 Some instructions and example uses can also be found in the notebook.
 
-Authors: Krzysztof Kapulkin and Nathan Kershaw.
+Authors: Krzysztof Kapulkin and Nathan Kershaw
 
-This project is licensed under the terms of the MIT license 
+This project is licensed under the terms of the MIT license.
