@@ -3,6 +3,8 @@ This is the algorithm corresponding to the paper "Efficient computations of disc
 The program is coded in Julia and contained in the notebook Cubical_Homology.ipynb. 
 Some instructions and example uses can also be found in the notebook.
 
+A more recent and slightly faster version can be found in discrete_homology.jl.
+
 Authors: Krzysztof Kapulkin and Nathan Kershaw
 
 This project is licensed under the terms of the MIT license.
